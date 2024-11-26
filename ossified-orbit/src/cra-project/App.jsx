@@ -1,5 +1,15 @@
-import React from 'react';
-import { Beer, Terminal, Ghost, MessageSquare, Coffee, Skull, Binary, Shield, Webhook } from 'lucide-react';
+import React from "react";
+import {
+  Beer,
+  Terminal,
+  Ghost,
+  MessageSquare,
+  Coffee,
+  Skull,
+  Binary,
+  Shield,
+  Webhook,
+} from "lucide-react";
 
 function App() {
   return (
@@ -16,7 +26,9 @@ function App() {
               <Terminal className="w-12 h-12 absolute -right-4 -bottom-4 text-purple-500" />
             </div>
             <h1 className="text-6xl font-bold glitch-text">RESACA</h1>
-            <p className="text-xl text-purple-400">Donde el código fluye y la cerveza también</p>
+            <p className="text-xl text-purple-400">
+              Donde el código fluye y la cerveza también
+            </p>
           </div>
         </div>
       </div>
@@ -28,17 +40,24 @@ function App() {
           <div className="bg-black/50 p-6 rounded-lg border border-green-500 hover:border-purple-500 transition-all group">
             <Shield className="w-12 h-12 mb-4 group-hover:text-purple-400" />
             <h3 className="text-xl font-bold mb-2">Ciberseguridad Chill</h3>
-            <p className="text-gray-400">Aprende mientras te diviertes. Sin corbatas, sin estrés, solo conocimiento y buena onda.</p>
+            <p className="text-gray-400">
+              Aprende mientras te diviertes. Sin corbatas, sin estrés, solo
+              conocimiento y buena onda.
+            </p>
           </div>
           <div className="bg-black/50 p-6 rounded-lg border border-green-500 hover:border-purple-500 transition-all group">
             <Ghost className="w-12 h-12 mb-4 group-hover:text-purple-400" />
             <h3 className="text-xl font-bold mb-2">Comunidad Fantasma</h3>
-            <p className="text-gray-400">Como los exploits 0-day, aparecemos cuando menos lo esperas.</p>
+            <p className="text-gray-400">
+              Como los exploits 0-day, aparecemos cuando menos lo esperas.
+            </p>
           </div>
           <div className="bg-black/50 p-6 rounded-lg border border-green-500 hover:border-purple-500 transition-all group">
             <Coffee className="w-12 h-12 mb-4 group-hover:text-purple-400" />
             <h3 className="text-xl font-bold mb-2">Café && Schop</h3>
-            <p className="text-gray-400">Para los bugs de día y las vulnerabilidades de noche.</p>
+            <p className="text-gray-400">
+              Para los bugs de día y las vulnerabilidades de noche.
+            </p>
           </div>
         </div>
 
@@ -47,7 +66,8 @@ function App() {
           <div className="inline-block relative cursor-help group">
             <Binary className="w-16 h-16 mx-auto mb-4" />
             <span className="hidden group-hover:block absolute -top-12 left-1/2 -translate-x-1/2 bg-black/90 px-4 py-2 rounded text-xs">
-              01010000 01100001 01110000 01100001 01110011 00100000 01000110 01110010 01101001 01110100 01100001 01110011
+              01010000 01100001 01110000 01100001 01110011 00100000 01000110
+              01110010 01101001 01110100 01100001 01110011
             </span>
           </div>
         </div>
@@ -56,7 +76,10 @@ function App() {
         <div className="max-w-2xl mx-auto text-center bg-black/70 p-8 rounded-lg border border-purple-500">
           <h2 className="text-3xl font-bold mb-6">Únete al Webeo</h2>
           <div className="flex justify-center space-x-6">
-            <a href="https://wa.me/yourlink" className="hover:text-purple-400 transition-colors">
+            <a
+              href="https://wa.me/yourlink"
+              className="hover:text-purple-400 transition-colors"
+            >
               <MessageSquare className="w-8 h-8" />
             </a>
             <a href="#" className="hover:text-purple-400 transition-colors">
@@ -66,7 +89,9 @@ function App() {
               <Skull className="w-8 h-8" />
             </a>
           </div>
-          <p className="mt-6 text-sm text-gray-400">* No nos hacemos responsables por las resacas del día siguiente</p>
+          <p className="mt-6 text-sm text-gray-400">
+            * No nos hacemos responsables por las resacas del día siguiente
+          </p>
         </div>
       </div>
 

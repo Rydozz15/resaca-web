@@ -77,16 +77,24 @@ function App() {
           <h2 className="text-3xl font-bold mb-6">Únete al Webeo</h2>
           <div className="flex justify-center space-x-6">
             <a
-              href="https://wa.me/yourlink"
+              href="https://chat.whatsapp.com/JpIm8OcRQH1650GvFgYwBE"
               className="hover:text-purple-400 transition-colors"
             >
               <MessageSquare className="w-8 h-8" />
             </a>
-            <a href="#" className="hover:text-purple-400 transition-colors">
+            <a
+              href="irc://irc.ssepi0l-pv.cl"
+              className="hover:text-purple-400 transition-colors"
+            >
               <Webhook className="w-8 h-8" />
+              {/* 41 75 6E 20 6E 6F 20 73 65 20 63 6F 6D 6F 20 6F 63 75 70 61 72 20 65 73 61 20 77 65 61 */}
             </a>
-            <a href="#" className="hover:text-purple-400 transition-colors">
+            <a
+              href="https://wiki.resacachile.cl/index.php/Main_Page"
+              className="hover:text-purple-400 transition-colors"
+            >
               <Skull className="w-8 h-8" />
+              {/* XP1q8YU4eits6WAZEHIb83NLl4of1bVgg2doEFEr09p9Mty49Oj4QsdmTsQgZJdU */}
             </a>
           </div>
           <p className="mt-6 text-sm text-gray-400">

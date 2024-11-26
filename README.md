@@ -1,47 +1,71 @@
-# Astro Starter Kit: Minimal
+# 🍺 RESACA: Código que Fluye, Cerveza que Inspira 🚀
 
-```sh
-npm create astro@latest -- --template minimal
+## 🌟 Descripción del Proyecto
+
+RESACA es una comunidad tech única donde el código y la cerveza se encuentran. Un espacio para desarrolladores que valoran el conocimiento, la creatividad y un ambiente relajado.
+
+## 👥 Autores
+
+- [@tomasQL](https://github.com/tomasQL) - Desarrollador Principal
+- [@Rydozz15](https://github.com/Rydozz15) - SEO & Deploy
+
+## 🛠 Tecnologías Utilizadas
+
+- React
+- Tailwind CSS
+- Lucide React Icons
+- Vite (presumiblemente)
+
+## 🚀 Características
+
+- **Ciberseguridad Chill**: Aprendizaje sin estrés
+- **Comunidad Fantasma**: Networking dinámico
+- **Café && Schop**: Productividad 24/7
+
+## 🔧 Instalación
+
+1. Clonar el repositorio
+```bash
+git clone https://github.com/[tu-usuario]/resaca.git
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+2. Instalar dependencias
+```bash
+npm install
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+3. Iniciar el proyecto
+```bash
+npm run dev
+```
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## 🌈 Características Destacadas
 
-Any static assets, like images, can be placed in the `public/` directory.
+- Diseño cyberpunk/matrix
+- Iconografía tech divertida
+- Efectos hover interactivos
+- Easter eggs en binario
 
-## 🧞 Commands
+## 🤝 Comunidad
 
-All commands are run from the root of the project, from a terminal:
+- [Grupo de WhatsApp](https://chat.whatsapp.com/JpIm8OcRQH1650GvFgYwBE)
+- [Wiki](https://wiki.resacachile.cl/index.php/Main_Page)
+- Canal IRC: `irc://irc.ssepi0l-pv.cl`
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## ⚠️ Disclaimer
 
-## 👀 Want to learn more?
+*No nos hacemos responsables por las resacas del día siguiente* 🍻
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## 📜 Licencia
+
+[Especificar la licencia del proyecto]
+
+## 💻 Comandos Útiles
+
+```bash
+rm -rf /hangovers/* && chmod +x beer.sh
+```
+
+---
+
+**Hecho con 💖 por la comunidad RESACA**

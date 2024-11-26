@@ -26,7 +26,7 @@ RESACA es una comunidad tech única donde el código y la cerveza se encuentran.
 
 1. Clonar el repositorio
 ```bash
-git clone https://github.com/[tu-usuario]/resaca.git
+git clone https://github.com/Rydozz15/resaca-web.git
 ```
 
 2. Instalar dependencias
@@ -58,7 +58,7 @@ npm run dev
 
 ## 📜 Licencia
 
-[Especificar la licencia del proyecto]
+GPL-3.0
 
 ## 💻 Comandos Útiles
 

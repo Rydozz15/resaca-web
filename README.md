@@ -6,15 +6,15 @@ RESACA es una comunidad tech única donde el código y la cerveza se encuentran.
 
 ## 👥 Autores
 
-- [@tomasQL](https://github.com/tomasQL) - Desarrollador Principal
-- [@Rydozz15](https://github.com/Rydozz15) - SEO & Deploy
+- [@tomasQL](https://github.com/tomasQL) - Diseño y Desarrollo entrete
+- [@Rydozz15](https://github.com/Rydozz15) - Maestro chasquilla, SEO y Deploy
 
 ## 🛠 Tecnologías Utilizadas
 
 - React
 - Tailwind CSS
 - Lucide React Icons
-- Vite
+- Astro
 
 ## 🚀 Características
 

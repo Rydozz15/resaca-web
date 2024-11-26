@@ -14,7 +14,7 @@ RESACA es una comunidad tech única donde el código y la cerveza se encuentran.
 - React
 - Tailwind CSS
 - Lucide React Icons
-- Vite (presumiblemente)
+- Vite
 
 ## 🚀 Características
 
